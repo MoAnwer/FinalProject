@@ -1,0 +1,3 @@
+
+Course name: Programming methods 1, Course Code: PM1, Course hours: 4
+Course name: Intro to ai, Course Code: AI101, Course hours: 4

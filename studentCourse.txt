@@ -1,0 +1,3 @@
+SUN: 1, Course code: PM1
+SUN: 1, Course code: AI101
+SUN: 2, Course code: AI101
