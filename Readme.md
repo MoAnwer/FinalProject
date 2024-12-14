@@ -1,10 +1,10 @@
 # It is the end of the journey ✨🤗✨
 
-yes freinds it is the final project of progrmming methods 1, it is `Student and Course Management System`;
+yes friends it is the final project of progrmming methods 1, it is `Student and Course Management System`;
 
-The progrm manages students data adn courses using fundamental programming principles, arrays, OOP, inhertance, string manipluation and file handling;
+The program manages students data and courses using fundamental programming principles, arrays, OOP, inhertance, string manipluation and file handling;
 
-## Featurs ✨
+## Features ✨
 
 - ✅ Add new student
 - ✅ Add new course
