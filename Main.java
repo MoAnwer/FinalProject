@@ -20,7 +20,7 @@ public class Main {
       
       System.out.println("\n1- Add new student.");
       System.out.println("2- Add new Course.");
-      System.out.println("3- Register student in course.");
+      System.out.println("3- Register student in a course.");
       System.out.println("4- Show students information.");
       System.out.println("5- Show all courses.");
       System.out.println("6- Show students with courses.");

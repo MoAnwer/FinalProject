@@ -1,2 +1,3 @@
 Name: Omar, Age: 19, height: 120.0, nationality: sudanese, university number: 1, specializtion: cs
 Name: Mohamed, Age: 18, height: 190.0, nationality: sudanese, university number: 2, specializtion: cs
+Name: Mohamed, Age: 19, height: 190.0, nationality: sudanse, university number: 66, specializtion: NT
